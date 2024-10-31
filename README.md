@@ -25,3 +25,5 @@ This project is a C program that designed and implemented a program that models 
 - Maps sound contours using a grid, where characters indicate various dB ranges across the area.
 
 Each stage builds upon previous steps, from basic data handling to complex spatial sound mapping.
+
+Score 19/20
